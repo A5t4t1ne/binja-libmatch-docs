@@ -1,7 +1,12 @@
-# BAA-documentation
+# BinaryNinja LibMatch documentation
 
-All the documentation stuff for the BAA.
+Documentation for the LibMatch plugin for Binary Ninja.
 
-Mainly contains all the typst files.
+> [!NOTE]
+> this is the repo for my bachelor thesis documentation, so there is a lot of non-functional information here
+
+Primarily contains all the typst files.
+
+
 
 
