@@ -5,3 +5,9 @@
 
 // _This is the main chapter of your work! It describes the realization of your own ideas and concepts @sec:ideas_and_concepts using the selected methods @sec:methods, including the difficulties and limitations encountered._
 
+@BinaryNinja
+
+
+#figure()
+
+
